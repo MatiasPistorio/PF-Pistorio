@@ -19,7 +19,7 @@ header nav ul li a{
 }
 header{
     width: 100%;
-    height: 25vh;
+    height: 14em;
 }
 .titulo{
     padding: 10px 10px 10px 10px;
@@ -35,12 +35,13 @@ main li a{
     font-size: 40px;
 } 
 main nav ul img{
-    height: 200px;
-    width: 200px;
+    height: 13em;
+    width: 13em;
 }
 .titulo2{
+    text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-size: x-large;
+    font-size: xx-large;
     color: yellow
 }
 .introduccion1{
@@ -69,7 +70,3 @@ main .tarjeta{
     width: 120px;
     background-color: rgb(185, 247, 149);
 }
-main .tarjeta button{
-    margin-top: 30px;
-}
-
