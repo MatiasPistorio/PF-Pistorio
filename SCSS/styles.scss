@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+@media (max-width: 576px){
+    *{
+        margin: 0px 0px 10px 0px;
+        padding: 0;
+    }
+    
+    //Menu principal//
+    
+    body{
+        background-image: url(../img/fondo.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+        
+        header{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 14em;
+            
+            .titulo-page{
+                padding: 10px 10px 10px 10px;
+                text-align: center;
+                color: yellow;
+                font-family: 'Courier New', Courier, monospace
+            }
+            
+            
+            ul{
+                list-style-type: none;
+                text-decoration: none;
+                padding: 0px;
+                
+                a{
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: yellow;
+                    letter-spacing: 2px;
+                    font-size: large;
+                }
+            }
+        }
+    }
+
+    //Presentacion//
+
+    main{
+        .titulo2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: 'Roboto', sans-serif;
+            font-size: xx-large;
+            color: yellow
+        }
+        .introduccion1{
+            color: yellow;
+            font-size: medium;
+            text-align: center;
+            font-family: 'Roboto', sans-serif;
+            font-family: 'Kanit', sans-serif;
+        }
+        img{
+            width: 20em;
+        }
+
+    //Catalogo//
+
+        ul{
+            list-style-type: none;
+            text-align: center;
+            padding: 0px;
+            div{
+                div{
+                    li{
+                        a{
+                            list-style: none;
+                            text-decoration: none;
+                            color: yellow;
+                            letter-spacing: 2px;
+                            font-size: 40px;
+                        }
+                    }
+                    img{
+                        height: 13em;
+                        width: 13em;
+                    }
+                }
+            }
+        }
+    }
+
+    //Pie de pagina//
+
+    footer{
+        div{
+            color: yellow;
+            text-align: center;
+            font-size: 1%;
+            h3{
+                font-size:large;
+            }
+        }
+    }
+
+    //Tarjetas//
+
+    main div .card-body{
+        background: rgb(255,255,255);
+        background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(93,210,255,1) 100%);
+        margin: 0px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 1023px){
+    *{
+        margin: 0px 0px 10px 0px;
+        padding: 0;
+    }
+
+    body{
+        background-image: url(../img/fondo.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+        
+        header{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 14em;
+            
+            .titulo-page{
+                padding: 10px 10px 10px 10px;
+                text-align: center;
+                color: yellow;
+                font-family: 'Courier New', Courier, monospace
+            }
+            
+            ul{
+                list-style-type: none;
+                text-decoration: none;
+                padding: 0px;
+                
+                a{
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: yellow;
+                    letter-spacing: 2px;
+                    font-size: 25px;
+                }
+            }
+        }
+        
+        main{
+            .titulo2{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: 'Roboto', sans-serif;
+                font-size: xx-large;
+                color: yellow
+            }
+            .introduccion1{
+                color: yellow;
+                font-size: large;
+                text-align: center;
+                font-family: 'Roboto', sans-serif;
+                font-family: 'Kanit', sans-serif;
+            }
+            img{
+                width: 25em;
+            }
+    
+         //Catalogo//
+    
+            ul{
+                list-style-type: none;
+                text-align: center;
+                padding: 0px;
+                div{
+                    div{
+                        li{
+                            a{
+                                list-style: none;
+                                text-decoration: none;
+                                color: yellow;
+                                letter-spacing: 2px;
+                                font-size: 40px;
+                            }
+                        }
+                        img{
+                            height: 16em;
+                            width: 16em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+        //Pie de pagina//
+
+    footer{
+        div{
+            color: yellow;
+            text-align: center;
+            font-size: 1%;
+            h3{
+                font-size:x-large;
+            }
+        }
+    }
+
+    //Tarjetas//
+
+    main div .card-body{
+        background: rgb(255,255,255);
+        background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(93,210,255,1) 100%);
+        margin: 0px;
+    }
+}
+
+@media (min-width: 1024px){
+
+    *{
+        margin: 0px 0px 10px 0px;
+        padding: 0;
+    }
+
+    body{
+        background-image: url(../img/fondo.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+        
+        header{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 17em;
+            
+            .titulo-page{
+                font-size: 60px;
+                padding: 10px 10px 10px 10px;
+                color: yellow;
+                font-family: 'Courier New', Courier, monospace
+            }
+            
+            ul{
+                list-style-type: none;
+                text-decoration: none;
+                padding: 0px;
+                
+                a{
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: yellow;
+                    letter-spacing: 2px;
+                    font-size: x-large;
+                }
+            }
+        }
+        
+        main{
+            .titulo2{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: 'Roboto', sans-serif;
+                font-size: xx-large;
+                color: yellow
+            }
+            .introduccion1{
+                color: yellow;
+                font-size: x-large;
+                text-align: center;
+                font-family: 'Roboto', sans-serif;
+                font-family: 'Kanit', sans-serif;
+            }
+            img{
+                width: 30em;
+            }
+    
+         //Catalogo//
+    
+            ul{
+                list-style-type: none;
+                text-align: center;
+                padding: 0px;
+                div{
+                    div{
+                        li{
+                            a{
+                                list-style: none;
+                                text-decoration: none;
+                                color: yellow;
+                                letter-spacing: 2px;
+                                font-size: 40px;
+                            }
+                        }
+                        img{
+                            height: 16em;
+                            width: 16em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+        //Pie de pagina//
+
+    footer{
+        div{
+            color: yellow;
+            text-align: center;
+            font-size: 1%;
+            h3{
+                font-size:xx-large;
+            }
+        }
+    }
+
+    //Tarjetas//
+
+    main div .card-body{
+        background: rgb(255,255,255);
+        background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(93,210,255,1) 100%);
+        margin: 0px;
+    }
+}
