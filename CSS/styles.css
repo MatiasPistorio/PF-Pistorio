@@ -22,7 +22,7 @@
   }
   body header .titulo-page {
     padding: 10px 10px 10px 10px;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-family: "Courier New", Courier, monospace;
   }
   body header ul {
@@ -37,7 +37,7 @@
     padding: 10px;
     list-style-type: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: large;
     position: relative;
@@ -74,10 +74,10 @@
     align-items: center;
     font-family: "Roboto", sans-serif;
     font-size: xx-large;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
   }
   main .introduccion1 {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-size: medium;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -100,7 +100,7 @@
     background-color: rgb(0, 0, 0);
     list-style: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: 40px;
   }
@@ -109,12 +109,12 @@
     width: 16em;
   }
   footer div {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     text-align: center;
     font-size: 1%;
   }
   footer div h3 {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-size: large;
   }
   main div .card-body {
@@ -147,7 +147,7 @@
   body header .titulo-page {
     padding: 10px 10px 10px 10px;
     text-align: center;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-family: "Courier New", Courier, monospace;
   }
   body header ul {
@@ -162,7 +162,7 @@
     padding: 10px;
     list-style-type: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: large;
     position: relative;
@@ -199,10 +199,10 @@
     align-items: center;
     font-family: "Roboto", sans-serif;
     font-size: xx-large;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
   }
   body main .introduccion1 {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-size: large;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -225,7 +225,7 @@
     background-color: rgb(0, 0, 0);
     list-style: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: 40px;
   }
@@ -234,7 +234,7 @@
     width: 16em;
   }
   footer div {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     text-align: center;
     font-size: 1%;
   }
@@ -271,7 +271,7 @@
   body header .titulo-page {
     font-size: 60px;
     padding: 10px;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-family: "Courier New", Courier, monospace;
   }
   body header ul {
@@ -286,7 +286,7 @@
     padding: 10px;
     list-style-type: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: large;
     position: relative;
@@ -323,10 +323,10 @@
     align-items: center;
     font-family: "Roboto", sans-serif;
     font-size: xx-large;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
   }
   body main .introduccion1 {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     font-size: x-large;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -349,7 +349,7 @@
     background-color: rgb(0, 0, 0);
     list-style: none;
     text-decoration: none;
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     letter-spacing: 2px;
     font-size: 40px;
   }
@@ -358,7 +358,7 @@
     width: 16em;
   }
   footer div {
-    color: rgb(203, 247, 10);
+    color: rgb(224, 248, 116);
     text-align: center;
     font-size: 1%;
   }
