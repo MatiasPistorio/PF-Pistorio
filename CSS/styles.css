@@ -68,6 +68,12 @@
       border-color: red;
     }
   }
+  main .accordion {
+    margin: 50px 50px;
+  }
+  main .escritorio {
+    display: none;
+  }
   main .titulo2 {
     display: flex;
     flex-direction: column;
@@ -193,6 +199,9 @@
       border-color: red;
     }
   }
+  body main .accordion {
+    display: none;
+  }
   body main .titulo2 {
     display: flex;
     flex-direction: column;
@@ -316,6 +325,9 @@
     100% {
       border-color: red;
     }
+  }
+  body main .accordion {
+    display: none;
   }
   body main .titulo2 {
     display: flex;
