@@ -33,12 +33,12 @@
   body header ul a {
     border-radius: 5px;
     background-color: rgb(0, 0, 0);
-    margin: 0 20px;
+    margin: 0 10px;
     padding: 10px;
     list-style-type: none;
     text-decoration: none;
     color: rgb(224, 248, 116);
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-size: large;
     position: relative;
     overflow: hidden;
